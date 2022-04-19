@@ -2,7 +2,7 @@
 ; Robotic arm.asm
 ;
 ; Created: 22/11/2021 07:12:37 a. m.
-; Author : alans
+; Author : Alan Samuel Aguirre Salazar
 ;
 
 .include "m16def.inc"     

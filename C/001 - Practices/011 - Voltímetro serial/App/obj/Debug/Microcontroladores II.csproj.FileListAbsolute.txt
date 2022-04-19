@@ -1,0 +1,10 @@
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\bin\Debug\Microcontroladores II.exe.config
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\bin\Debug\Microcontroladores II.exe
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\bin\Debug\Microcontroladores II.pdb
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\obj\Debug\Microcontroladores II.csprojAssemblyReference.cache
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\obj\Debug\Microcontroladores_II.Form1.resources
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\obj\Debug\Microcontroladores_II.Properties.Resources.resources
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\obj\Debug\Microcontroladores II.csproj.GenerateResource.cache
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\obj\Debug\Microcontroladores II.csproj.CoreCompileInputs.cache
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\obj\Debug\Microcontroladores II.exe
+C:\Users\alans\source\repos\Microcontroladores II\Microcontroladores II\obj\Debug\Microcontroladores II.pdb
